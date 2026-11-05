@@ -39,7 +39,7 @@ flowchart LR
 
 **The firewall is the only router.** It does IPS, DNS filtering and the VPN server. Changes to it are one of the things the owner approves (with a short list of pre-agreed routine exceptions such as DNS and DHCP entries).
 
-**A spare PC serves a local language model.** It is used for light language work (summaries, classification, drafting) and as a second, cheaper reader for verification work. It is not a source of truth: its output is information, never an order (see Law 9 in the [method](method.md) page).
+**A spare PC serves a local language model.** It is used for light language work (summaries, classification, drafting) and as a second, cheaper reader for verification work. It is often switched off and is brought up on request, and its health check does a real completion, so a green status means the model answered, not that a port was open. It is a second shared-fate edge: its power state decides whether the fleet's cheap reader exists at all. It is not a source of truth: its output is information, never an order (see Law 9 in the [method](method.md) page).
 
 **The network is segmented**: a general segment, an IoT segment and a camera segment, each with fixed addressing and its own rules.
 

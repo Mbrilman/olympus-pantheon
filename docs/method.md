@@ -2,6 +2,18 @@
 
 This page is the core of the operation: how a group of AI agents keeps a shared body of knowledge and a shared set of machines coherent without a human reviewing every step.
 
+**Contents**
+
+- [The canon and the one pen](#the-canon-and-the-one-pen)
+- [The tracker: every piece of work has an owner and a different reviewer](#the-tracker-every-piece-of-work-has-an-owner-and-a-different-reviewer)
+- [Review means measuring again](#review-means-measuring-again)
+- [How a tool is born and handed over](#how-a-tool-is-born-and-handed-over)
+- [Tests that must fail first](#tests-that-must-fail-first)
+- [The laws](#the-laws)
+- [Build harmless first](#build-harmless-first)
+- [Evidence discipline](#evidence-discipline)
+- [Instruction hierarchy for agents](#instruction-hierarchy-for-agents)
+
 ## The canon and the one pen
 
 The shared memory is a git repository, the **canon**, cloned on every seat. It holds the books (one topic per file, each with a summary on top so a reader can stop early), the tools, the laws, the register of what runs where, and a worklog.
@@ -42,6 +54,12 @@ A review is not a read-through. For tool and data changes the reviewer:
 5. Writes the result with what was and was not run.
 
 A review that only restates the owner's report is the single most reliable way to certify something that is wrong.
+
+## How a tool is born and handed over
+
+A builder never writes the canon. A new tool or a change to one is built in a disposable working tree, submitted as a patch through the single gate, and landed by Clio. Every tool carries a version header that says what changed and who may change it. The register row for a scheduled tool comes before its cron line (a watcher that is built but not connected has never run, and that happened). Until a tool is handed over, its builder owns it; afterwards the operations agent does, and the builder becomes one of its reviewers.
+
+Weekly, a short scouting pass looks at new security advisories and at tools that might help. What it finds is a proposal, never an installation.
 
 ## Tests that must fail first
 

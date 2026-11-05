@@ -64,7 +64,7 @@ Real incidents, each with what it cost and what it changed. They are listed beca
 
 **What happened.** A seat died of a full context window three times in two weeks; once it stayed on the wall for three days. Automatic compaction was off by decision, and the restart path was refused by a guard meant to prevent two live sessions of the same seat.
 
-**What it changed.** Handovers at 80 percent, a restart tool that can tell an idle seat from a busy one, a rule that a handover written *before* the restart order does not count (the order is reissued and the agent must rewrite it), and an allow-list for a known interactive twin session. The remaining gap, a handover at the 90 percent wall with a live twin, is still on the tracker.
+**What it changed.** Handovers at 80 percent, a restart tool that can tell an idle seat from a busy one, and a rule that a handover written *before* the restart order does not count (the agent must write it again). An allow-list for a known interactive twin session is designed and not yet in service. The remaining gap, a handover at the 90 percent wall with a live twin, is still on the tracker.
 
 ## 11. An alarm that fired because a one-hour-old fact was still being read
 

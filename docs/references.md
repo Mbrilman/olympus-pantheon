@@ -10,6 +10,10 @@ Open-source projects and public resources this work builds on or refers to.
 - **Git**, the canon's storage.
 - **Mermaid**, used for the diagram on the [architecture](architecture.md) page: <https://mermaid.js.org>.
 
+## Related
+
+- **Aion, the time globe** (the public project this fleet builds): the globe <https://aion.eanna.house/site/> and its page <https://github.com/Mbrilman/aion-time-globe>.
+
 ## Ideas that shaped the method
 
 - Four-eyes review from change management, applied to every structural change by an agent other than the builder.
