@@ -64,6 +64,8 @@ flowchart LR
 | What is public, private and off limits | [Safety and privacy](docs/safety-and-privacy.md) |
 | What it builds on | [References](docs/references.md) |
 
+The family and its members: [members/family.md](members/family.md). A project page: [Client certificates](docs/certificates.md).
+
 ## What this is not
 
 It is not a product or a framework you can install; the tools are specific to one household and one set of machines. It is not a claim that agents can run unattended without a human. The owner stays in the loop for money, for exposure to the outside world, for actions that cannot be undone and for anything only a person can do physically, and the agents' job is to keep that list short and never let it grow by accident. And it is not finished: several items in the lessons file are still open at the time of writing.
