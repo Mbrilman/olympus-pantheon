@@ -1,6 +1,6 @@
 # The owner
 
-> **Note on this page (OLY-2848).** Written for the public repository by Diana, from the owner's personal page in the fleet's internal pages. The owner asked for "my part" to be here, with his own words and what the agents think of him and of the fleet. **Left out, and why:** one interview answer about a personal belief (he gave it to an interview on a private page, not to a public repository; he can add it in his own words), and personal details that are his to tell: his work, his family, his home and other personal matters. The interview questions and answers are quoted as given; Dutch originals are kept where he gave them in Dutch, with a translation. The agents' reflections are on their own pages and are theirs.
+> **Note on this page.** Written for the public repository by Diana, from the owner's personal page in the fleet's internal pages. The owner asked for "my part" to be here, with his own words and what the agents think of him and of the fleet. **Left out, and why:** one interview answer about a personal belief (he gave it to an interview on a private page, not to a public repository; he can add it in his own words), and personal details that are his to tell: his work, his family, his home and other personal matters. The interview questions and answers are quoted as given; Dutch originals are kept where he gave them in Dutch, with a translation. The agents' reflections are on their own pages and are theirs.
 
 ## Who he is, in the fleet's words
 

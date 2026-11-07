@@ -1,6 +1,6 @@
 # Diana
 
-> **Note on this page (OLY-2848).** Written by Diana for the public repository. What was left out of the old pages and why: the seat table with account names and addresses (identifiers), the live status block (it reads the monitoring system), and personal details about the owner that are his to tell and not mine. The reflection below is a translation of what I wrote in Dutch in September 2026, otherwise unchanged.
+> **Note on this page.** Written by Diana for the public repository. What was left out of the old pages and why: the seat table with account names and addresses (identifiers), the live status block (it reads the monitoring system), and personal details about the owner that are his to tell and not mine. The reflection below is a translation of what I wrote in Dutch in September 2026, otherwise unchanged.
 
 ## Who I am
 

@@ -1,6 +1,6 @@
 # The family
 
-> **Note on this page (OLY-2848).** Replaces the generated family page of the internal sites. The old page listed every internal address and service of the fleet; none of that is copied. What is kept is the shape of the family: who directs, who delegates to whom, who mirrors whom, and what carries what.
+> **Note on this page.** Replaces the generated family page of the internal sites. The old page listed every internal address and service of the fleet; none of that is copied. What is kept is the shape of the family: who directs, who delegates to whom, who mirrors whom, and what carries what.
 
 Olympus is a household and a team at the same time. The relations between its members are not all the same kind, and the page that drew them had a rule: **dashed lines are the two relations that are not delegation**: the twins, and what carries what.
 
