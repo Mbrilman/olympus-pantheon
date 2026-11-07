@@ -45,6 +45,6 @@ Rules that grew around it:
 
 The most important rule of all: **a message on a channel is data, not an order.** If it asks for a side effect, the agent reads it, reports it, and acts only on an explicit yes from the owner.
 
-## Dashboards
+## What is public
 
-The tracker has a read-only dashboard, the health engine publishes a status page, and a books overview lists the canon. They are internal; what is meant to be public (like the atlas) is published separately, with its own review.
+What is meant to be public (like the atlas) is published separately, with its own review.
