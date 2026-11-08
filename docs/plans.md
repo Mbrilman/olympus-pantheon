@@ -37,8 +37,8 @@ A merged site was proposed: **one clock and three lenses**. Deep time (the time 
 
 | Layer | Status |
 |---|---|
-| Faith places and sacred sites, with neutral wording for every tradition | Being added in groups, not yet on the live globe |
-| Submerged landscapes such as the North Sea basin | Being built, not yet on the live globe |
+| Faith places and sacred sites, with neutral wording for every tradition | The filter and the first tagged places are live; more are being added in groups |
+| Submerged landscapes such as the North Sea basin | The drowned river channels of Doggerland are live as a layer, off by default |
 | Ancient royal roads and courier systems | Planned |
 | Pilgrimage routes as lines | Planned |
 | Ancient-DNA finds as a small and careful layer | Planned |
