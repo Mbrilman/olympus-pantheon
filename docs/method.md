@@ -43,6 +43,8 @@ All work is an item in a small database with a command-line client. An item has 
 
 An approval covers **exactly what was delivered**. If a reviewer approves a first step of a larger item, the item stays open. The request itself lists what is not done.
 
+The cycle is build, review, polish, repeat. It ends when the condition written on the item is met and a reviewer has measured it, not when the work is perfect.
+
 ## Review means measuring again
 
 A review is not a read-through. For tool and data changes the reviewer:
