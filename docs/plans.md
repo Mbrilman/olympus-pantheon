@@ -48,7 +48,7 @@ No dates are promised for any of them.
 ## For the fleet itself
 
 - **An independent checker.** Bringing back a checker on a different model family, when the budget and the owner's decision allow.
-- **A restore mode for the command filter** so that a bad release can be rolled back by a documented, proof-checked step. Designed, not built.
+- **A restore mode for the command filter**, so that a bad release can be rolled back by a documented, proof-checked step. Built, rehearsed on a scratch copy and used for real on a seat.
 - **Shorter, cheaper nightly checks.** The nightly gate has grown from minutes to well over an hour. The work is to read where the time goes and to split cheap guards from expensive proofs.
 - **A second party for each seat's critical tools.** Today a second party cannot act on another seat's files, by permission design. The honest state is "no second party yet", and it will stay that way until a trust-boundary decision is recorded.
 

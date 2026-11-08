@@ -14,6 +14,8 @@ Two practices keep the fleet from drifting: a nightly reflection that looks back
 
 Every night the master agent runs a headless, unattended ritual of sleep and reflection. It reads the worklog and the tracker for the day, the message archive, the results of the other jobs and the logs that matter, and then sorts, much as a tired person does in sleep. The output is a short list of numbered proposals: things that went wrong twice, tools that behaved unlike their own description, work that was promised and never filed, tests that take too long. The proposals are written to a journal and picked up by the agent that owns the area. The dream closes nothing and changes nothing by itself; it only notices.
 
+The twin has a different form. It does not run headless: a trigger is posted into its own lane, and its live session carries out the reflection. The text of the trigger is part of the shared memory; what the twin makes of it is personal and stays out of it.
+
 Running it taught four things.
 
 | Observation | What it led to |
